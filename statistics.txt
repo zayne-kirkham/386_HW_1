@@ -1,3 +1,4 @@
     - Mean and standard deviation
     - Regression
     - Bayes Theorm
+    - STAT 386
